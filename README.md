@@ -1,3 +1,8 @@
+# Project moved
+
+This project has been moved to:
+https://github.com/smbcmp/smbcmp
+
 smbcmp
 ======
 
